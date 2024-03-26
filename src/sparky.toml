@@ -1,0 +1,29 @@
+# Sparky by mixcoac for Alacritty, generated using terminal.sexy.
+
+colors:
+  # Default colors
+  primary:
+    background: '0x072b31'
+    foreground: '0xf2f2f2'
+
+  # Normal colors
+  normal:
+    black:   '0x1a1c1d'
+    red:     '0xe03e52'
+    green:   '0x78d64b'
+    yellow:  '0xf6eb61'
+    blue:    '0x407ec9'
+    magenta: '0xeb6fbd'
+    cyan:    '0x2dccd3'
+    white:   '0xdee6de'
+
+  # Bright colors
+  bright:
+    black:   '0x4d4d4d'
+    red:     '0xe03e52'
+    green:   '0x78d64b'
+    yellow:  '0xf2e358'
+    blue:    '0x407ec9'
+    magenta: '0xeb6fbd'
+    cyan:    '0x2dccd3'
+    white:   '0xdee6de'

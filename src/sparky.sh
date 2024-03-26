@@ -5,7 +5,7 @@
 
 if [ "$TERM" = "linux" ]; then
   /bin/echo -e "
-  \e]P01a1c1d
+  \e]P0212322
   \e]P1e03e52
   \e]P278d64b
   \e]P3f6eb61
@@ -13,15 +13,14 @@ if [ "$TERM" = "linux" ]; then
   \e]P5eb6fbd
   \e]P62dccd3
   \e]P7dee6de
-  \e]P84d4d4d
-  \e]P9e03e52
-  \e]PA78d64b
-  \e]PBf2e358
-  \e]PC407ec9
-  \e]PDeb6fbd
-  \e]PE2dccd3
-  \e]PFdee6de
+  \e]P84b4f54
+  \e]P9cb333b
+  \e]PA67b941
+  \e]PBfbdd40
+  \e]PC3a5dae
+  \e]PDc6579a
+  \e]PE48a9c5
+  \e]PFc8c9c7
   "
-  # get rid of artifacts
   clear
 fi

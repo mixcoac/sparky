@@ -4,11 +4,11 @@
 	"author": "Leila Sother <leila@insurgent.es>",
 	"use-theme-colors": false,
 	"use-badge-color": true,
-	"foreground-color": "#f2f2f2",
+	"foreground-color": "#f4f5f0",
 	"background-color": "#072b31",
 	"badge-color": "#2cccd3",
 	"palette": [
-		"#1a1c1d",
+		"#212322",
 		"#e03e52",
 		"#78d64b",
 		"#f6eb61",
@@ -16,13 +16,13 @@
 		"#eb6fbd",
 		"#2dccd3",
 		"#dee6de",
-		"#4d4d4d",
-		"#e03e52",
-		"#78d64b",
-		"#f2e358",
-		"#407ec9",
-		"#eb6fbd",
-		"#2dccd3",
-		"#dee6de"
+		"#4b4f54",
+		"#cb333b",
+		"#67b941",
+		"#fbdd40",
+		"#3a5dae",
+		"#c6579a",
+		"#48a9c5",
+		"#c8c9c7"
 	  ]
 }

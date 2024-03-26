@@ -2,38 +2,38 @@
 ! generated using terminal.sexy
 
 ! special
-*.foreground:   #f2f2f2
+*.foreground:   #f4f5f0
 *.background:   #072b31
-*.cursorColor:  #f2f2f2
+*.cursorColor:  #f4f5f0
 
 ! black
-*.color0:       #1a1c1d
-*.color8:       #4d4d4d
+*.color0:       #212322
+*.color8:       #4b4f54
 
 ! red
 *.color1:       #e03e52
-*.color9:       #e03e52
+*.color9:       #cb333b
 
 ! green
 *.color2:       #78d64b
-*.color10:      #78d64b
+*.color10:      #67b941
 
 ! yellow
 *.color3:       #f6eb61
-*.color11:      #f2e358
+*.color11:      #fbdd40
 
 ! blue
 *.color4:       #407ec9
-*.color12:      #407ec9
+*.color12:      #3a5dae
 
 ! magenta
 *.color5:       #eb6fbd
-*.color13:      #eb6fbd
+*.color13:      #c6579a
 
 ! cyan
 *.color6:       #2dccd3
-*.color14:      #2dccd3
+*.color14:      #48a9c5
 
 ! white
 *.color7:       #dee6de
-*.color15:      #dee6de
+*.color15:      #c8c9c7

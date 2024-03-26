@@ -78,9 +78,6 @@ mv sparky.json ~/.var/app/com.raggesilver.BlackBox/data/blackbox/schemes/
 ## XFCE4 Terminal
 Copy `sparky.theme` to `~/.local/share/xfce4/terminal/colorschemes/`.
 
-## XShell
-If you use this obscure as fuck thing, you probably already know how.
-
 ## XResources
 There are multiple ways to install Sparky for XResources, you can either do it:
 

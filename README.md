@@ -22,5 +22,6 @@ Reasoning for this is that copyrighting a set of colours is, to say the very lea
 ## Credits
 This theme was possible thanks to the following themes and people:
 - [Adobe Color](https://color.adobe.com/) - for its colour blind safety checks and palette tests
+- [Code Beautify's HEX to Pantone converter](https://codebeautify.org/hex-to-pantone-converter) - for being the only good HEX to PMS converter
 - [terminal.sexy](https://terminal.sexy/) - for developing an awesome test UI and export system
 - [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life, cheers

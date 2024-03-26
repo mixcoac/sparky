@@ -1,5 +1,4 @@
 # Installing Sparky in your terminal emulator
----
 
 ## Alacritty
 To install Sparky in Alacritty, you need to move `sparky.toml` to your `.config/alacritty/themes` folder.
@@ -85,12 +84,12 @@ If you use this obscure as fuck thing, you probably already know how.
 ## XResources
 There are multiple ways to install Sparky for XResources, you can either do it:
 
-**The Terminator Way**
+### The Terminator Way**
 Copy&paste the contents of `sparky.xresources` into your `~/.Xresources` file, and reload your settings with `xrdb`.
 
-**The `#include` Way**
+### The `#include` Way**
 Move `sparky.xresources` anywhere you want, for this example we'll use `~/.config/`, and add the following line to your `~/.Xresources` file.
 
-```sh
+```
 #include "~/.config/sparky.xresources"
 ```

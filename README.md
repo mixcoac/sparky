@@ -17,9 +17,10 @@ Feel free to create your own Sparky theme for your favourite app, and host it in
 ## License
 Sparky is released under the [Unlicense](https://unlicense.org) license, this means that Sparky is released under the public domain, and you can do literally anything you want with the files provided here and the colour scheme swatched by me.
 
-Reasoning for this is that copyrighting a set of colours is, to say the very least, fucking retarded[¹](https://draculatheme.com/pro)[²](https://en.wikipedia.org/wiki/Colour_trade_mark). 
+Reasoning for this is that copyrighting a set of colours is, to say the very least, fucking retarded[¹](https://draculatheme.com/pro) [²](https://en.wikipedia.org/wiki/Colour_trade_mark). 
 
 ## Credits
-[Adobe Color](https://color.adobe.com/) - for its colour blind safety checks and palette tests
-[terminal.sexy](https://terminal.sexy/) - for developing an awesome test UI and export system
-[@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life, cheers
+This theme was possible thanks to the following themes and people:
+- [Adobe Color](https://color.adobe.com/) - for its colour blind safety checks and palette tests
+- [terminal.sexy](https://terminal.sexy/) - for developing an awesome test UI and export system
+- [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life, cheers

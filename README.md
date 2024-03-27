@@ -21,7 +21,7 @@ PMS | Hex | 🎨
 141-9 C | `#DEE6DE` | ![#DEE6DE](https://placehold.co/15x15/DEE6DE/DEE6DE.png)
 7540 C | `#4B4F54` | ![#4B4F54](https://placehold.co/15x15/4B4F54/4B4F54.png)
 805 C | `#FF7276` | ![#FF7276](https://placehold.co/15x15/FF7276/FF7276.png)
-7487 C | `#8EDD65` | ![#8EDD65](https://placehold.co/15x15/8EDD65/8EDD65.png 
+7487 C | `#8EDD65` | ![#8EDD65](https://placehold.co/15x15/8EDD65/8EDD65.png)
 100 C | `#F6EB61` | ![#F6EB61](https://placehold.co/15x15/F6EB61/F6EB61.png)
 292 C | `#69B3E7` | ![#69B3E7](https://placehold.co/15x15/69B3E7/69B3E7.png)
 210 C | `#F99FC9` | ![#F99FC9](https://placehold.co/15x15/F99FC9/F99FC9.png)

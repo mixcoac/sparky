@@ -1,7 +1,7 @@
 {
 	"name": "Sparky",
 	"comment": "Theme for Tilix, and general JSON parsing -- generated using terminal.sexy",
-	"author": "Leila Sother <leila@insurgent.es>",
+	"author": "Leila Sother (https://github.com/mixcoac)",
 	"use-theme-colors": false,
 	"use-badge-color": true,
 	"foreground-color": "#f4f5f0",
@@ -9,20 +9,20 @@
 	"badge-color": "#2cccd3",
 	"palette": [
 		"#212322",
-		"#e03e52",
+		"#ff585d",
 		"#78d64b",
-		"#f6eb61",
-		"#407ec9",
-		"#eb6fbd",
+		"#fbdd40",
+		"#4698cb",
+		"#d59ed7",
 		"#2dccd3",
 		"#dee6de",
 		"#4b4f54",
-		"#cb333b",
-		"#67b941",
-		"#fbdd40",
-		"#3a5dae",
-		"#c6579a",
-		"#48a9c5",
-		"#c8c9c7"
+		"#ff7276",
+		"#8edd65",
+		"#f6eb61",
+		"#69b3e7",
+		"#f99fc9",
+		"#00c1d5",
+		"#d9e1e2"
 	  ]
 }

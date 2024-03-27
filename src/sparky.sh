@@ -1,26 +1,26 @@
 #!/bin/sh
 
-# Sparky by mixcoac for Linux consoles
+# Sparky by Leila Sother (https://github.com/mixcoac) for Linux consoles
 # generated with terminal.sexy
 
 if [ "$TERM" = "linux" ]; then
   /bin/echo -e "
   \e]P0212322
-  \e]P1e03e52
+  \e]P1ff585d
   \e]P278d64b
-  \e]P3f6eb61
-  \e]P4407ec9
-  \e]P5eb6fbd
+  \e]P3fbdd40
+  \e]P44698cb
+  \e]P5d59ed7
   \e]P62dccd3
   \e]P7dee6de
   \e]P84b4f54
-  \e]P9cb333b
-  \e]PA67b941
-  \e]PBfbdd40
-  \e]PC3a5dae
-  \e]PDc6579a
-  \e]PE48a9c5
-  \e]PFc8c9c7
+  \e]P9ff7276
+  \e]PA8edd65
+  \e]PBf6eb61
+  \e]PC69b3e7
+  \e]PDf99fc9
+  \e]PE00c1d5
+  \e]PFd9e1e2
   "
   clear
 fi

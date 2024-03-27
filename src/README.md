@@ -1,4 +1,4 @@
-# Installing Sparky in your terminal emulator
+# Installing Sparky to your terminal emulator
 
 ## Alacritty
 To install Sparky in Alacritty, you need to move `sparky.toml` to your `.config/alacritty/themes` folder.

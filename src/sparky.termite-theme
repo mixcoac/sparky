@@ -1,4 +1,4 @@
-# Sparky by mixcoac
+# Sparky by Leila Sother (https://github.com/mixcoac)
 # generated using terminal.sexy
 
 [colors]
@@ -14,29 +14,29 @@ color0  = #212322
 color8  = #4b4f54
 
 # red
-color1  = #e03e52
-color9  = #cb333b
+color1  = #ff585d
+color9  = #ff7276
 
 # green
 color2  = #78d64b
-color10 = #67b941
+color10 = #8edd65
 
 # yellow
-color3  = #f6eb61
-color11 = #fbdd40
+color3  = #fbdd40
+color11 = #f6eb61
 
 # blue
-color4  = #407ec9
-color12 = #3a5dae
+color4  = #4698cb
+color12 = #69b3e7
 
 # magenta
-color5  = #eb6fbd
-color13 = #c6579a
+color5  = #d59ed7
+color13 = #f99fc9
 
 # cyan
 color6  = #2dccd3
-color14 = #48a9c5
+color14 = #00c1d5
 
 # white
 color7  = #dee6de
-color15 = #c8c9c7
+color15 = #d9e1e2

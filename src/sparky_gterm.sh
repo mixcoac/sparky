@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Base16 - Gnome Terminal color scheme install script
 
-# Sparky by mixcoac
+# Sparky by Leila Sother (https://github.com/mixcoac)
 # generated using terminal.sexy
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Sparky"
@@ -61,7 +61,7 @@ if which "$DCONF" > /dev/null 2>&1; then
 
         # update profile values with theme options
         dset visible-name "'$PROFILE_NAME'"
-        dset palette "['#212322', '#e03e52', '#78d64b', '#f6eb61', '#407ec9', '#eb6fbd', '#2dccd3', '#dee6de', '#4b4f54', '#cb333b', '#67b941', '#fbdd40', '#3a5dae', '#c6579a', '#48a9c5', '#c8c9c7']"
+        dset palette "['#212322', '#ff585d', '#78d64b', '#fbdd40', '#4698cb', '#d59ed7', '#2dccd3', '#dee6de', '#4b4f54', '#ff7276', '#8edd65', '#f6eb61', '#69b3e7', '#f99fc9', '#00c1d5', '#d9e1e2']"
         dset background-color "'#072b31'"
         dset foreground-color "'#f4f5f0'"
         dset bold-color "'#f4f5f0'"
@@ -111,7 +111,7 @@ glist_append() {
 glist_append string /apps/gnome-terminal/global/profile_list "$PROFILE_SLUG"
 
 gset string visible_name "$PROFILE_NAME"
-gset string palette "#212322:#e03e52:#78d64b:#f6eb61:#407ec9:#eb6fbd:#2dccd3:#dee6de:#4b4f54:#cb333b:#67b941:#fbdd40:#3a5dae:#c6579a:#48a9c5:#c8c9c7"
+gset string palette "#212322:#ff585d:#78d64b:#fbdd40:#4698cb:#d59ed7:#2dccd3:#dee6de:#4b4f54:#ff7276:#8edd65:#f6eb61:#69b3e7:#f99fc9:#00c1d5:#d9e1e2"
 gset string background_color "#072b31"
 gset string foreground_color "#f4f5f0"
 gset string bold_color "#f4f5f0"

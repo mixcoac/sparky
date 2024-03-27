@@ -19,7 +19,6 @@ PMS | Hex | 🎨
 7438 C | `#D59ED7` | ![#D59ED7](https://placehold.co/15x15/D59ED7/D59ED7.png)
 [319 C](https://x.com/ENTERSHIKARI/status/1200107247973609473?s=20) | `#2DCCD3` | ![#2DCCD3](https://placehold.co/15x15/2DCCD3/2DCCD3.png) 
 141-9 C | `#DEE6DE` | ![#DEE6DE](https://placehold.co/15x15/DEE6DE/DEE6DE.png)
-
 7540 C | `#4B4F54` | ![#4B4F54](https://placehold.co/15x15/4B4F54/4B4F54.png)
 805 C | `#FF7276` | ![#FF7276](https://placehold.co/15x15/FF7276/FF7276.png)
 7487 C | `#8EDD65` | ![#8EDD65](https://placehold.co/15x15/8EDD65/8EDD65.png 
@@ -28,7 +27,6 @@ PMS | Hex | 🎨
 210 C | `#F99FC9` | ![#F99FC9](https://placehold.co/15x15/F99FC9/F99FC9.png)
 3115 C | `#00C1D5` | ![#00C1D5](https://placehold.co/15x15/00C1D5/00C1D5.png)
 7541 C | `#D9E1E2` | ![#D9E1E2](https://placehold.co/15x15/D9E1E2/D9E1E2.png)
-
 546 C | `#072B31` | ![#072B31](https://placehold.co/15x15/072B31/072B31.png)
 178 C | `#F4F5F0` | ![#F4F5F0](https://placehold.co/15x15/F4F5F0/F4F5F0.png)
 
@@ -44,17 +42,12 @@ Using [terminal.sexy](https://terminal.sexy), configurations for Sparky are avai
 [Sparky is currently in the process of being added to Gogh](https://github.com/Gogh-Co/Gogh/pull/423).
 
 ### Base16
-Using Base16 builders/manager, you can load Sparky using [`sparky.yml](src/sparky.yml).
+Using Base16 builders/manager, you can load Sparky using [`sparky.yml`](src/sparky.yml).
 
 This allows you to import Sparky to basically anything with a Base16 builder/manager like [Flavours](https://github.com/misterio77/flavours) or [Themix](https://github.com/themix-project/themix-gui).
 
 ### Community-sourced Themes
 You can find Sparky community themes searching for [#sparky-theme](https://github.com/search?q=sparky-theme) in Github.
-
-## License
-Sparky is released under the [Unlicense](https://unlicense.org) license, this means that Sparky is released under the public domain, and you can do literally anything you want with the files provided here and the colour scheme swatched by me.
-
-Reasoning for this is that copyrighting a set of colours is, to say the very least, fucking retarded[¹](https://draculatheme.com/pro) [²](https://en.wikipedia.org/wiki/Colour_trade_mark). 
 
 ## Credits
 This theme was possible thanks to the following themes and people:
@@ -62,3 +55,6 @@ This theme was possible thanks to the following themes and people:
 - [Code Beautify's HEX to Pantone converter](https://codebeautify.org/hex-to-pantone-converter) - for being the only good HEX to PMS converter
 - [terminal.sexy](https://terminal.sexy/) - for developing an awesome test UI and export system
 - [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life, cheers
+
+## License
+Sparky is released under the [Unlicense](https://unlicense.org) license, meaning that Sparky is released under the public domain, and you can do literally anything you want with the files provided here and the colour scheme swatched by me.

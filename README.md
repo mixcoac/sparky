@@ -1,10 +1,10 @@
 # Sparky
 
-![Image of a two Black Box terminals using Sparky, displaying the commands pfetch and colours each as a demonstration. Font used is Intel One Mono, and wallpaper is a custom edit of The Spark's album cover.](ast/sc.png)
+![Image of two Black Box terminals using Sparky, displaying the commands pfetch and colours each as a demonstration. Font used is Intel One Mono, and wallpaper is a custom edit of The Spark's album cover.](ast/sc.png)
 
-Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001), made with accessibility and PMS compliance in mind. It features range of 18 colours, and resembles other palettes like Solarized or Nord.
+Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001), made with accessibility and PMS compliance in mind. It features a range of 18 colours, and resembles other palettes like Solarized or Nord.
 
-Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), completed using a harmonic colour wheel, adjusted for colour balance, contrast and accessibility for colourblind users, and then matched to their closest Pantone equivalents.
+Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), completed using a harmonic colour wheel, adjusted for contrast balance; and accessibility for colourblind users, and then matched to their closest Pantone equivalents.
 
 ## Palette
 Sparky has in total 18 colours, 8 "main", 8 "bright" and 2 for the foreground and background.
@@ -32,9 +32,9 @@ PMS | Hex | 🎨
 
  
 ## Install
-Sparky was planned as only a colour palette to build themes from, so by itself there isn't a set "official" Sparky theme for anything.
+Sparky was planned as only a colour palette to build themes from, so there aren't any "official" Sparky themes.
 
-However, there's some methods to get a Sparky theme running on your machine.
+However, Sparky themes are available in a few odd ways, mainly for terminals.
 
 ### Terminals
 Using [terminal.sexy](https://terminal.sexy), configurations for Sparky are available for many terminal emulators.  You can find some config files in `src` and instructions on how to install them in your terminal [here](src/README.md).
@@ -42,9 +42,9 @@ Using [terminal.sexy](https://terminal.sexy), configurations for Sparky are avai
 [Sparky is currently in the process of being added to Gogh](https://github.com/Gogh-Co/Gogh/pull/423).
 
 ### Base16
-Using Base16 builders/manager, you can load Sparky using [`sparky.yml`](src/sparky.yml).
+Using Base16 builders/managers, you can load Sparky using [`sparky.yml`](src/sparky.yml).
 
-This allows you to import Sparky to basically anything with a Base16 builder/manager like [Flavours](https://github.com/misterio77/flavours) or [Themix](https://github.com/themix-project/themix-gui).
+This allows you to import Sparky into basically anything with a Base16 builder/manager like [Flavours](https://github.com/misterio77/flavours) or [Themix](https://github.com/themix-project/themix-gui).
 
 ### Community-sourced Themes
 You can find Sparky community themes searching for [#sparky-theme](https://github.com/search?q=sparky-theme) in Github.

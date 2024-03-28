@@ -1,5 +1,9 @@
 # Installing Sparky to your terminal emulator
 
+Although the recommended way to install Sparky as your terminal theme is through [Gogh](https://gogh-co.github.io/Gogh/), its understandable that sometimes you'd just prefer modifying your terminal's config file or installing things manually. Each to their own.
+
+Note that the following configs and files were auto-generated using [terminal.sexy](https://terminal.sexy), and that you might need to modify things a bit so you can actually use the theme on your terminal depending on how you have it configured.
+
 ## Alacritty
 To install Sparky in Alacritty, you need to move `sparky.toml` to your `.config/alacritty/themes` folder.
 
@@ -21,7 +25,13 @@ To install Sparky in GNOME Terminal, you just need to need to run `sparky_gterm.
 We all hate you GTerm, shame you're one of the best emulators.
 
 ## Guake
-Run `sparky_guake.sh`.
+Run the following commands.
+
+```
+gconftool-2 -s -t string /apps/guake/style/background/color '#07072b2b3131'
+gconftool-2 -s -t string /apps/guake/style/font/color '#f4f4f5f5f0f0'
+gconftool-2 -s -t string /apps/guake/style/font/palette '#212123232222:#ffff58585d5d:#7878d6d64b4b:#fbfbdddd4040:#46469898cbcb:#d5d59e9ed7d7:#2d2dccccd3d3:#dedee6e6dede:#4b4b4f4f5454:#ffff72727676:#8e8edddd6565:#f6f6ebeb6161:#6969b3b3e7e7:#f9f99f9fc9c9:#0000c1c1d5d5:#d9d9e1e1e2e2'
+```
 
 ## iTerm2
 *Instructions taken from [iterm2colorschemes.com](https://iterm2colorschemes.com)*
@@ -40,27 +50,8 @@ To install Sparky in Konsole, copy `sparky.colorscheme` into your `~/.local/shar
 ## Linux console
 Add `sparky.sh` to your `.bashrc` or whatever thing your shell uses at startup. Congrats.
 
-## MinTTY
-Follow the instructions from [this gist](https://gist.github.com/mohnish/fbdb87bd8f5c7ecc46de519fbdd4b68c) because nobody fucking knows how to install a theme in MinTTY.
-
-## PuTTY
-Follow the instruction from [this repository](https://gist.github.com/mohnish/fbdb87bd8f5c7ecc46de519fbdd4b68c).
-
 ## Terminal.app
 To install Sparky in Terminal.app, you need to go to **Preferences > Profiles**, click on the gear icon, select **Import**, and select `sparky.terminal`.
-
-## Terminator
-To install Sparky in Terminator... just copy&paste the contents of `sparky.config` into your `~/.config/terminator/config` file, or yeet it all together and do
-
-```sh
-mv -f sparky.config ~/.config/terminator/config
-```
-
-## Termite
-Same as with Terminator, copy&paste the contents of `sparky.termite-theme` into your `~/.config/termite` folder, or ball and do
-```sh
-mv -f sparky.termite-theme ~/config/termite/config
-```
 
 ## Tilix/Black Box
 Both Tilix and Black Box use the same JSON format for themes, and installation is pretty much identical.

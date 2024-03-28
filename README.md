@@ -9,7 +9,7 @@ Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), compl
 Sparky has in total 28 colours, 8 "main", 8 "bright", 5 "background", 5 "foreground" and 2 blacks.
 
 Name/Use | PMS | Hex | 🎨 | WCAG
----|---|---|---|---|---
+---|---|---|---|---
 Red | 178 C | `#FF585D` | ![#FF585D](https://placehold.co/15x15/f03c15/f03c15.png) | AA/4.9
 Red (Dark) | 1797 C | `#DD4B50` | ![#DD4B50](https://placehold.co/15x15/DD4B50/DD4B50.png) | A
 Red (Bright) | 805 C | `#FF7276` | ![#FF7276](https://placehold.co/15x15/FF7276/FF7276.png) | AA/5.7

@@ -51,13 +51,11 @@ However, Sparky themes are available in a few odd ways, mainly for terminals.
 ### Terminals
 
 **Gogh (recommended)**
-[Gogh](https://gogh-co.github.io/Gogh/) is a repository of themes that can be installed running a single command and picking a theme. 
+[Gogh](https://gogh-co.github.io/Gogh/) is a repository of themes that can be installed running a single command and picking a theme. You can find Sparky there.
 
 ```
 bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
-
-Sparky is available on Gogh under theme number `214`. (FYI: might change as more themes get added)
 
 **terminal.sexy/manual**
 Using [terminal.sexy](https://terminal.sexy), configurations for Sparky are available for many terminal emulators. You can also fine tune and customise Sparky's colours to your liking by importing [`sparky.xresources`](src/sparky.xresources) into terminal.sexy.
@@ -78,10 +76,14 @@ Currently there are none but one can have dreams.
 
 ## Credits
 This theme was possible thanks to the following themes and people:
-- [Adobe Color](https://color.adobe.com/) - for its colour wheel and colourblind safety checks
+- [Adobe Color](https://color.adobe.com/) - used for its colour wheel and colourblind safety checks
+- [Eric's Color Blender](https://meyerweb.com/eric/tools/color-blend/) - used alongside AC's colour wheel to find colours
 - [Code Beautify's HEX to Pantone converter](https://codebeautify.org/hex-to-pantone-converter) - for being the only good HEX to PMS converter
-- [terminal.sexy](https://terminal.sexy/) - for developing an awesome test UI and export system
-- [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life, cheers
+- [iColorpalette](https://icolorpalette.com) - used for double-checking HEX codes for Pantone and finding alternative shades
+- [terminal.sexy](https://terminal.sexy/) - used for live-testing, and exporting configs found in `src`
+- [Enter Shikari Discord](https://discord.com/invite/yuPuTsQARE) - for encouraging me to continue developing the scheme
+- [@tinted-theming](https://github.com/tinted-theming) - for hosting info, schemes and tools for B16/24
+- [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life
 
 ## License
 Sparky is released under the [Unlicense](https://unlicense.org) license, meaning that Sparky is released under the public domain, and you can do literally anything you want with the files provided here and the colour scheme swatched by me.

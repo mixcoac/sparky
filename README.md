@@ -50,14 +50,14 @@ However, Sparky themes are available in a few odd ways, mainly for terminals.
 
 ### Terminals
 
-**Gogh (recommended)**
+#### Gogh (recommended)
 [Gogh](https://gogh-co.github.io/Gogh/) is a repository of themes that can be installed running a single command and picking a theme. You can find Sparky there.
 
 ```
 bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
 
-**terminal.sexy/manual**
+#### terminal.sexy/manual
 Using [terminal.sexy](https://terminal.sexy), configurations for Sparky are available for many terminal emulators. You can also fine tune and customise Sparky's colours to your liking by importing [`sparky.xresources`](src/sparky.xresources) into terminal.sexy.
 
 You can find some exported/generated config files on `src` and instructions on how to install them in your terminal [here](src/INSTALL.md).

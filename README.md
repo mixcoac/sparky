@@ -1,11 +1,11 @@
 # Sparky
 ![Image of two Black Box terminals using Sparky, displaying the commands pfetch and colours each as a demonstration. Font used is Intel One Mono, and a custom edit of The Spark's album cover is used as the wallpaper.](ast/sc.png)
 
-Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001), made with accessibility and PMS compliance in mind. It features a range of 18 colours, and resembles other palettes like Solarized or Nord.
+Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001) made with accessibility and PMS compliance in mind. It features a range of 28 colours, and resembles palettes like Solarized or Nord.
 
-Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), completed using a harmonic colour wheel, adjusted for contrast balance; and accessibility for colourblind users, and then matched to their closest Pantone equivalents. 
+Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), completed using a harmonic colour wheel, adjusted for contrast balance; and accessibility for colourblind users, and then matched to their closest Pantone equivalents.
 
-Note that for some specific types of colourblindness, distinguishing bright colours from their main variants may be more complicated.
+Note that for some specific types of colourblindness, distinguishing between main and bright variants of colours may be more complicated.
 
 Sparky averages a [WCAG 2.1](https://www.w3.org/TR/WCAG21/#contrast-minimum) contrast rating of 7.5:1 (AAA).
 
@@ -78,12 +78,11 @@ Currently there are none but one can have dreams.
 This theme was possible thanks to the following themes and people:
 - [Adobe Color](https://color.adobe.com/) - used for its colour wheel and colourblind safety checks
 - [Eric's Color Blender](https://meyerweb.com/eric/tools/color-blend/) - used alongside AC's colour wheel to find colours
-- [Code Beautify's HEX to Pantone converter](https://codebeautify.org/hex-to-pantone-converter) - for being the only good HEX to PMS converter
-- [iColorpalette](https://icolorpalette.com) - used for double-checking HEX codes for Pantone and finding alternative shades
+- [iColorpalette](https://icolorpalette.com) - used for converting HEX codes for Pantone and finding alternative shades
 - [terminal.sexy](https://terminal.sexy/) - used for live-testing, and exporting configs found in `src`
 - [Enter Shikari Discord](https://discord.com/invite/yuPuTsQARE) - for encouraging me to continue developing the scheme
 - [@tinted-theming](https://github.com/tinted-theming) - for hosting info, schemes and tools for B16/24
-- [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and for saving my life
+- [@maisymoe](https://github.com/maisymoe) - for getting me into Enter Shikari, and saving my life
 
 ## License
 Sparky is released under the [Unlicense](https://unlicense.org) license, meaning that Sparky is released under the public domain, and you can do literally anything you want with the files provided here and the colour scheme swatched by me.

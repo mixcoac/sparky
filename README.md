@@ -1,7 +1,7 @@
 # Sparky
 ![Image of two Black Box terminals using Sparky, displaying the commands pfetch and colours each as a demonstration. Font used is Intel One Mono, and a custom edit of The Spark's album cover is used as the wallpaper.](ast/sc.png)
 
-Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001) made with PMS compliance and simplicity in mind. It features a range of 28 colours, and resembles palettes like Solarized or Nord.
+Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001) made with aesthetics and PMS compliance in mind. It features a range of 28 colours, and resembles palettes like Solarized or Nord.
 
 Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), completed using a harmonic colour wheel, adjusted for contrast balance; and accessibility for colourblind users, and then matched to their closest Pantone equivalents.
 
@@ -31,7 +31,7 @@ Blue (Bright) | 292 C | `#69B3E7` | ![#69B3E7](https://placehold.co/15x15/69B3E7
 Purple | 7438 C | `#D59ED7` | ![#D59ED7](https://placehold.co/15x15/D59ED7/D59ED7.png) | AA/6.9
 Purple (Dark) | 674 C | `#C6579A` | ![#C6579A](https://placehold.co/15x15/C6579A/C6579A.png) | A/3.7
 Purple (Bright) | 210 C | `#F99FC9` | ![#F99FC9](https://placehold.co/15x15/F99FC9/F99FC9.png) | AAA/7.7
-Brown | 10367 C | `#9B704D`| ![#9B704D](https://placehold.co/15x15/9B704D/9B704D.png) | Fail/3.4
+Brown | 10367 C | `#9B704D` | ![#9B704D](https://placehold.co/15x15/9B704D/9B704D.png) | Fail/3.4
 Brown (Dark) | 8621 C | `#63513D` | ![#63513D](https://placehold.co/15x15/63513D/63513D.png) | Fail/2.0
 Brown (Bright) | 4715 C | `#956C58` | ![#956C58](https://placehold.co/15x15/956C58/956C58.png) | Fail/3.3
 Background | 546 C | `#072B31` | ![#072B31](https://placehold.co/15x15/072B31/072B31.png) | Fail/1.0
@@ -39,16 +39,16 @@ Background (Bright) | 547 C | `#00313C` | ![#00313C](https://placehold.co/15x15/
 Selection | 547 CP | `#003C46` | ![#003C46](https://placehold.co/15x15/003C46/003C46.png) | Fail/1.24
 Comments | 309 C | `#003B49` | ![#003B49](https://placehold.co/15x15/003B49/003B49.png) | Fail/1.2
 Background (Brighter) | 7705 C | `#00778B` | ![#00778B](https://placehold.co/15x15/00778B/00778B.png) | Fail/2.8
-White | FFFFF | `#FFFFFF` | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | AAA/15.0
-White (Dark)| P 179-1 | `#F5F5F1` | ![#F5F5F1](https://placehold.co/15x15/F5F5F1/F5F5F1.png) | AAA/13.7
-Foreground | 11-0601 Tcx| `#F4F5F0` | ![#F4F5F0](https://placehold.co/15x15/F4F5F0/F4F5F0.png) | AAA/13.7
+White | - | `#FFFFFF` | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | AAA/15.0
+White (Dark) | P 179-1 | `#F5F5F1` | ![#F5F5F1](https://placehold.co/15x15/F5F5F1/F5F5F1.png) | AAA/13.7
+Foreground | 11-0601 Tcx | `#F4F5F0` | ![#F4F5F0](https://placehold.co/15x15/F4F5F0/F4F5F0.png) | AAA/13.7
 Grey | 141-9 C | `#DEE6DE` | ![#DEE6DE](https://placehold.co/15x15/DEE6DE/DEE6DE.png) | AAA/11.8
-Grey (Dark)| 7541 C | `#D9E1E2` | ![#D9E1E2](https://placehold.co/15x15/D9E1E2/D9E1E2.png) | AAA/11.3
+Grey (Dark) | 7541 C | `#D9E1E2` | ![#D9E1E2](https://placehold.co/15x15/D9E1E2/D9E1E2.png) | AAA/11.3
 Dark (Bright) | 7540 C | `#4B4F54` | ![#4B4F54](https://placehold.co/15x15/4B4F54/4B4F54.png) | Fail/1.8
 Dark | 419 C | `#212322` | ![#212322](https://placehold.co/15x15/212322/212322.png) | Fail/1.05
 
-### Accesibility
-Sparky was originally designed with accesibility in mind, prioritising colourblind distinctions and contrast balancing, and attempting to reduce eye sore. As Sparky's palette grew from 10 colours to 16, 18, 24, and now 36 colours; this became a harder task to balance out.
+### Accessibility
+Sparky was originally designed with accessibility in mind, prioritising colourblind distinctions and contrast balancing, and attempting to reduce eye sore. As Sparky's palette grew from 10 colours to 16, 18, 24, and now 36 colours; this became a harder task to balance out.
 
 Sparky's entire palette is not colourblind safe, only its "main" variant, and its background/extra colours have been tested to be colourblind safe. Sparky still tries its best at being colourblind safe, with fairly noticeable contrast between all variants, but it might be difficult to tell colours apart for some users with more extreme cases of colourblindness.
 

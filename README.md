@@ -14,7 +14,7 @@ Sparky averages a WCAG rating of 7.5:1 (AAA).
 Sparky has in total 28 colours, 8 "main", 8 "bright", 5 "background", 5 "foreground" and 2 blacks.
 
 PMS | Hex | 🎨 | WCAG
----|---|---
+---|---|---|---
 178 C | `#FF585d` | ![#FF585D](https://placehold.co/15x15/f03c15/f03c15.png) | AA/4.9
 805 C | `#FF7276` | ![#FF7276](https://placehold.co/15x15/FF7276/FF7276.png) | AA/5.7
 1495 C | `#FF8F1C` | ![#FF8F1C](https://placehold.co/15x15/FF8F1C/FF8F1C.png) | AA/6.6

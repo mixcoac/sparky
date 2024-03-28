@@ -1,5 +1,4 @@
 # Sparky
-
 ![Image of two Black Box terminals using Sparky, displaying the commands pfetch and colours each as a demonstration. Font used is Intel One Mono, and a custom edit of The Spark's album cover is used as the wallpaper.](ast/sc.png)
 
 Sparky is a colour palette/theme inspired by Enter Shikari's [The Spark](https://album.link/mx/i/1263896001), made with accessibility and PMS compliance in mind. It features a range of 18 colours, and resembles other palettes like Solarized or Nord.
@@ -8,7 +7,7 @@ Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), compl
 
 Note that for some specific types of colourblindness, distinguishing bright colours from their main variants may be more complicated.
 
-Sparky averages a WCAG rating of 7.5:1 (AAA).
+Sparky averages a [WCAG 2.1](https://www.w3.org/TR/WCAG21/#contrast-minimum) contrast rating of 7.5:1 (AAA).
 
 ## Palette
 Sparky has in total 28 colours, 8 "main", 8 "bright", 5 "background", 5 "foreground" and 2 blacks.
@@ -37,7 +36,7 @@ PMS | Hex | 🎨 | WCAG
 309 C | `#003B49` | ![#003B49](https://placehold.co/15x15/003B49/003B49.png) | Fail/1.2
 7705 C | `#00778B` | ![#00778B](https://placehold.co/15x15/00778B/00778B.png) | Fail/2.8
 FFFFF | `#FFFFFF` | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | AAA/15.0
-P 179-1 | `#F5F5F1` | ![#F5F5F1](https://placehold.co/15x15/F5F5F1/F5F5F1.png | AAA/13.7
+P 179-1 | `#F5F5F1` | ![#F5F5F1](https://placehold.co/15x15/F5F5F1/F5F5F1.png) | AAA/13.7
 11-0601 Tcx| `#F4F5F0` | ![#F4F5F0](https://placehold.co/15x15/F4F5F0/F4F5F0.png) | AAA/13.7
 141-9 C | `#DEE6DE` | ![#DEE6DE](https://placehold.co/15x15/DEE6DE/DEE6DE.png) | AAA/11.8
 7541 C | `#D9E1E2` | ![#D9E1E2](https://placehold.co/15x15/D9E1E2/D9E1E2.png) | AAA/11.3

@@ -37,6 +37,7 @@ Foreground | 546 C | `#f4f5f0` | ![#f4f5f0](https://placehold.co/15x15/f4f5f0/f4
 There is also a scale of greys which are not PMS-compliant, however they were added in order to allow for more detail when theming and as a buffer for some themes.
 
 Hex | 🎨
+---|---
 `#FFFFFF` | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png)
 `#D3D3D3` | ![#D3D3D3](https://placehold.co/15x15/D3D3D3/D3D3D3.png)
 `#A6A7A7` | ![#A6A7A7](https://placehold.co/15x15/A6A7A7/A6A7A7.png)

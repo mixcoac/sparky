@@ -9,7 +9,7 @@ Its palette was swatched from Enter Shikari album covers (TS and NiR&EiP), compl
 Sparky has in total 29 colours, 8 "main", 8 "bright", 4 "background", a scale of 6 greys, 2 extra colours for editors, and a foreground.
 
 Name/Use | PMS | Hex | 🎨
----|---|---|---|---
+---|---|---|---
 Red | 178 C | `#FF585D` | ![#FF585D](https://placehold.co/15x15/f03c15/f03c15.png)
 Orange | 2013 U | `#FF9F24` | ![#FF9F24](https://placehold.co/15x15/FF9F24/FF9F24.png)
 Yellow | 114 C | `#FBDD40` | ![#FBDD40](https://placehold.co/15x15/FBDD40/FBDD40.png)
@@ -58,26 +58,24 @@ Sparky was planned as only a colour palette to build themes from, so there aren'
 
 However, Sparky themes are available in a few odd ways, mainly for terminals.
 
-### Terminals
-
-#### Gogh (recommended)
-[Gogh](https://gogh-co.github.io/Gogh/) is a repository of themes that can be installed running a single command and picking a theme. You can find Sparky there.
-
-```
-bash -c  "$(wget -qO- https://git.io/vQgMr)"
-```
-
-#### terminal.sexy
-Although in a limited manner, you can use [terminal.sexy](https://terminal.sexy) to get Sparky themes for many terminal emulators. You can also fine tune and customise Sparky's colours to your liking.
-
-For this you need to import [`sparky.xresources`](src/sparky.xresources) into terminal.sexy.
-
 ### Base16 and Base24
 Sparky is available as a Base16 and as a Base24 scheme; refer to [`sparky16.yml`](src/sparky16.yml) for Base16, or [`sparky24.yml`](src/sparky24.yml) for Base24.
 
 Using BaseXX versions allow you to import Sparky into basically anything with a Base16/24 builder/manager like [Tinty](https://github.com/tinted-theming/tinty) or [Themix](https://github.com/themix-project/themix-gui) for theming.
 
 Note that due to Base16 only using 16 colours (who would've guessed) and due to its format, bright variants of colours and darks were removed.
+
+### Gogh
+[Gogh](https://gogh-co.github.io/Gogh/) is a repository of themes for many terminal emulators that can be installed running a single command and picking a theme. You can find Sparky there.
+
+```
+bash -c  "$(wget -qO- https://git.io/vQgMr)"
+```
+
+### terminal.sexy
+Although in a limited manner, you can use [terminal.sexy](https://terminal.sexy) to get Sparky themes for many terminal emulators. You can also fine tune and customise Sparky's colours to your liking.
+
+For this you need to import [`sparky.xresources`](src/sparky.xresources) into terminal.sexy.
 
 ### Community-sourced Themes
 You can find Sparky community themes searching for [#sparky-theme](https://github.com/search?q=sparky-theme) in Github.
